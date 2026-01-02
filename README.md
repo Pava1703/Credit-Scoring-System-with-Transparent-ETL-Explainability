@@ -112,7 +112,7 @@ Credit Scoring System/
 
 Create and activate a virtual environment
 Install dependencies:
-   ```bash
+   bash
    pip install -r requirements.txt
 
 Run the full end-to-end pipeline:
