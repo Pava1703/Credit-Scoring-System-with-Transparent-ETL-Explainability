@@ -51,6 +51,7 @@ standard reason codes?
 
 ## Project Structure
 
+```text
 Credit Scoring System/
 ├── dags/
 │ └── credit_scoring_pipeline_dag.py
@@ -76,6 +77,7 @@ Credit Scoring System/
 ├── test_pipe.py
 ├── requirements.txt
 └── README.md
+```
 
 
 
