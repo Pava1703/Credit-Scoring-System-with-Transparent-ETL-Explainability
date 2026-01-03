@@ -165,9 +165,15 @@ credit_scoring_pipeline_dag
 
 ## Reproducibility
 
-- All figures and tables are generated directly from code
-- No manual creation of outputs is performed
-- Outputs are saved automatically to the `figures/` and `tables/` directories
+Due to GitHub file size limitations, the original Lending Club dataset is not included in this repository.
+All results, tables, and figures are generated entirely from code.
+
+To reproduce the results:
+1. Download the dataset from the link provided below
+2. Place it in the `data/` directory
+3. Run `python test_pipe.py`
+
+All outputs will be regenerated automatically.
 
 ---
 
